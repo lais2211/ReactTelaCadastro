@@ -1,0 +1,18 @@
+.suspendList label{
+
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+    text-align: left;
+
+}
+
+.suspendList select{
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgb(216, 212, 212);
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}

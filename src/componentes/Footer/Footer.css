@@ -1,0 +1,38 @@
+:root{
+    --primary-color: #fff;
+    --background-color: #6278F7;
+    --font-family: 'Montserrat', sans-serif;
+
+}
+
+.rodape{
+    max-width: 100%;
+    background-color: var(--background-color);
+    background-image: url('/public/imagens/fundo.png');
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 80px;
+}
+
+.rodape .redes-sociais{
+    margin: 32px;
+
+}
+
+.redes-sociais img{
+    padding-right: 32px;
+}
+
+.rodape .logo{
+   margin-right: 32px;
+
+}
+
+.rodape .desenvolvido{
+    font-family: var(--font-family);
+    color: var(--primary-color);
+    font-weight: 200;
+    margin-right: 0;
+
+}
